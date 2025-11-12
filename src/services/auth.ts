@@ -1,4 +1,5 @@
 
+
 // Client-side authentication service for static deployment
 // This can be easily adapted to connect to real authentication APIs
 
